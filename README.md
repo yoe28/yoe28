@@ -57,10 +57,10 @@ Siempre busco mejorar mis habilidades y colaborar en proyectos interesantes.
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" alt="stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" alt="langs" height="160" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoe28&show_icons=true&theme=tokyonight" alt="stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoe28&layout=compact&theme=tokyonight" alt="langs" height="160" />
+</div>
 
 ---
 
