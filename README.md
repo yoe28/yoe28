@@ -45,7 +45,7 @@ Siempre busco mejorar mis habilidades y colaborar en proyectos interesantes.
 
 ### 📫 Cómo contactarme
 📧 **Correo:** yoenderson15gm@gmail.com  
-💼 **LinkedIn:** [https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/yoenderson-gonzalezz/)  
+💼 **LinkedIn:** [https://linkedin.com/in/tu-yoenderson-gonzalezz](https://www.linkedin.com/in/yoenderson-gonzalezz/)  
 🌐 **Portafolio:** [https://tu-sitio-web.com](https://tu-sitio-web.com)
 
 ---
