@@ -5,10 +5,12 @@
 
 ---
 
-### 🧠 Sobre mí
-Soy un desarrollador con pasión por el aprendizaje continuo y la creación de soluciones útiles.  
-Me gusta trabajar tanto en el **frontend** como en el **backend**, combinando lógica, diseño y buenas prácticas de programación.  
-Siempre busco mejorar mis habilidades y colaborar en proyectos interesantes.
+###🧠 **Sobre mí**  
+Soy un **Desarrollador Web y Analista de Datos** con una fuerte pasión por el aprendizaje continuo y la creación de soluciones tecnológicas eficientes.  
+Disfruto trabajar tanto en el **frontend** como en el **backend**, integrando la lógica, el diseño y las buenas prácticas de programación para lograr resultados de calidad.  
+Además, tengo experiencia en el **análisis de datos** y el manejo de **tecnologías de bases de datos**, aplicando herramientas como **Python, SQL y sistemas de gestión relacional** para extraer información valiosa y optimizar procesos.  
+Siempre busco **mejorar mis habilidades** y colaborar en **proyectos innovadores** que generen impacto.
+
 
 ---
 
