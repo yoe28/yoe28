@@ -1,6 +1,7 @@
 <!-- Banner o presentación -->
 <h1 align="center">👋 ¡Hola, soy <span style="color:#00bfff;">Yoenderson Gonzalez</span>!</h1>
-<h3 align="center">💻 Desarrollador Web | 🐍 Python & ☕ Java | 🚀 Apasionado por la tecnología</h3>
+<h3 align="center">💻 Desarrollador Web & Analista de Datos | 🐍 Python, ☕ Java & 📊 SQL | 🚀 Apasionado por la innovación tecnológica</h3>
+
 
 ---
 
